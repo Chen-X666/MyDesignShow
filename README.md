@@ -1,4 +1,5 @@
 # MyDesignShow
+halo, designer, if u can encounter some inspiration in this show. Please give me a star, thx!
 ## My Show
 | 自主发展课堂 | 知行杯海报 | 帆布袋 |
 | ----- | ----- | ----- |
