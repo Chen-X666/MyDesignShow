@@ -5,9 +5,9 @@ halo, designer, if u can encounter some inspiration in this show. Please give me
 | ----- | ----- | ----- |
 <img src="https://github.com/Chen-X666/MyDesignShow/blob/a57648d42caf81b697396be57f181324b5a00345/%E8%87%AA%E4%B8%BB%E5%8F%91%E5%B1%95%E8%AF%BE%E5%A0%822.jpg" width="300px"/> |<img src="https://github.com/Chen-X666/MyDesignShow/blob/main/%E7%9F%A5%E8%A1%8C%E6%9D%AF%E6%B5%B7%E6%8A%A5.jpg" width="300px" class="small-img"/> |<img src="https://github.com/Chen-X666/MyDesignShow/blob/main/%E5%B8%86%E5%B8%83%E8%A2%8B.jpg" width="300px" class="small-img"/>
 
-|知行杯幕布 |
-| ----- |
-|<img src="https://github.com/Chen-X666/MyDesignShow/blob/main/%E7%9F%A5%E8%A1%8C%E6%9D%AF%E5%B9%95%E5%B8%83.jpg" width="500px" class="small-img"/> 
+|知行杯幕布 | 工作证 |
+| ----- | ----- |
+|<img src="https://github.com/Chen-X666/MyDesignShow/blob/main/%E7%9F%A5%E8%A1%8C%E6%9D%AF%E5%B9%95%E5%B8%83.jpg" width="300px" class="small-img"/>  |<img src="https://github.com/Chen-X666/MyDesignShow/blob/main/%E5%B7%A5%E4%BD%9C%E8%AF%81.jpg" width="300px" class="small-img"/>  |
 
 ##  Other Show i even guided
 
