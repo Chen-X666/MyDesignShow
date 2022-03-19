@@ -33,4 +33,4 @@ halo, designer, if u can encounter some inspiration in this show. Please give me
   
  | 院运会奖金版 | 院运会创意集市 |  |
  | ----- | ----- | ----- | 
- <img src="https://github.com/Chen-X666/MyDesignShow/blob/main/yyh1.jpg" width="300px" class="small-img"/>|<img src="https://github.com/Chen-X666/MyDesignShow/blob/main/%E4%BF%A1%E7%AE%A1.jpg" width="300px" class="small-img"/>|
+ <img src="https://github.com/Chen-X666/MyDesignShow/blob/main/yyh3.jpg" width="300px" class="small-img"/>|<img src="https://github.com/Chen-X666/MyDesignShow/blob/main/%E4%BF%A1%E7%AE%A1.jpg" width="300px" class="small-img"/>|
