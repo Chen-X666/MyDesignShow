@@ -1,5 +1,5 @@
 # MyDesignShow
-halo, designer, if u can encounter some inspiration in this show. Please give me a star, thx!
+halo, designer, if u are encountering some inspiration in this show. Please give me a star, thx!
 | 全家福 |
 | ----- |
 |<div align="center"><img src="https://github.com/Chen-X666/MyDesignShow/blob/main/2019-2020%E5%AE%A3%E4%BC%A0%E9%83%A8%E5%85%A8%E5%AE%B6%E7%A6%8F.jpg" width="600px" class="small-img"/>  |
